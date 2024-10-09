@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Victor</h1>
+<h1 align="center">Hello 👋 I'm Victor</h1>
 <h3 align="center">A student in Computer Science from Dijon, France</h3>
 
 - 📫 How to reach me **dubozvictor@gmail.com**
