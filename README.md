@@ -1,11 +1,15 @@
 ### <div align="center">I'm Victor 👨‍💻, a student  in Computer Science  from Dijon, France </div>  
 <br>
+
+
+- 🌐 My portfolio : https://www.victorduboz.dev
   
 
-- 🔭 I’m currently working on [DGS]([https://github.com/dept-info-iut-dijon/S5_C1_Utopia](https://github.com/victorinhoOo/dijon-go-server))  
-  
+- 🔭 I’m currently working on [DGS](https://github.com/victorinhoOo/dijon-go-server)
 
-- 🌱Still learning in all domains  
+  
+- 🌱 Still learning in all domains
+  
   
 
 <br/>  
