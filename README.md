@@ -2,7 +2,7 @@
 <br>
   
 
-- 🔭 I’m currently working on [DGS](https://github.com/dept-info-iut-dijon/S5_C1_Utopia)  
+- 🔭 I’m currently working on [DGS]([https://github.com/dept-info-iut-dijon/S5_C1_Utopia](https://github.com/victorinhoOo/dijon-go-server))  
   
 
 - 🌱Still learning in all domains  
