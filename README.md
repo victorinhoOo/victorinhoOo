@@ -5,7 +5,7 @@
 - 🌐 My portfolio : https://www.victorduboz.dev
   
 
-- 🔭 I’m currently working on [DGS](https://github.com/victorinhoOo/dijon-go-server)
+- 🔭 I’m currently working on [miniGPT](https://github.com/victorinhoOo/miniGPT)
 
   
 - 🌱 Still learning in all domains
